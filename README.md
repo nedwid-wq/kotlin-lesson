@@ -1,2 +1,2 @@
 # kotlin-lesson
-Kotlin first lesson
+Kotlin lessons
